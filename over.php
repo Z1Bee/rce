@@ -1,4 +1,4 @@
-OvrThnkr1337
+A1337
 <form method="post" enctype="multipart/form-data">
   <input type="file" name="uk45">
   <button>A1337</button>
